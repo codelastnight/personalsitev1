@@ -32,7 +32,7 @@ body {
 
 body {
   font-family: "Montserrat", sans-serif;
-  color: #FDFDFD;
+  color: #424242;
   font-size: 14px;
   font-weight: 500; }
 
@@ -46,7 +46,7 @@ h2 {
   font-size: 2rem; }
 
 a {
-  color: #FDFDFD;
+  color: #424242;
   text-decoration: none;
   transition: color 0.1s;
   display: flex;
@@ -54,7 +54,7 @@ a {
   flex-direction: row;
   margin-bottom: 0.5em; }
   a:hover {
-    color: #2B2B2B; }
+    color: #FD7C7C; }
   a i {
     font-size: 1.2rem; }
   a p {
